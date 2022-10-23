@@ -1,0 +1,60 @@
+.fold-1{
+    margin: 30px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border-radius: 30px;
+    text-align: center;
+}
+.fold-2{
+    flex-direction: row;
+    border: 2px  ;
+    height: 450px;
+    width: 350px;
+    flex-wrap: wrap;
+    border-radius: 30px;
+    -moz-box-shadow: 0 0 10px rgb(138, 136, 138);
+    -webkit-box-shadow: 0 0 10px rgb(139, 138, 139);
+    box-shadow: 0 0 10px rgb(90, 89, 90);
+}
+.fold-3{
+    flex-direction: row;
+    border: 2px  ;
+    height: 450px;
+    width: 350px;
+    flex-wrap: wrap;
+    border-radius: 30px;
+    -moz-box-shadow: 0 0 10px rgb(138, 136, 138);
+    -webkit-box-shadow: 0 0 10px rgb(139, 138, 139);
+    box-shadow: 0 0 10px rgb(90, 89, 90);
+}
+.fold-2:hover,.fold-3:hover{
+    -moz-box-shadow: 0 0 10px rgb(228, 204, 228);
+    -webkit-box-shadow: 0 0 10px rgb(228, 204, 228);
+    box-shadow: 0 0 10px rgb(228, 204, 228);
+}
+.cnttext{
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+.buuuuttt{
+    /* margin-top: 40%; */
+    border: 3px solid rgb(224, 136, 77);
+    border-radius: 3px;
+    height: 10%;
+    width: 30%;
+    color: black;
+    background-color: rgb(209, 95, 171);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.buuuuttt:hover{
+    background-color: blueviolet;
+}
+.rang{
+    justify-content: space-around;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+.newww{
+    color: brown;
+}
