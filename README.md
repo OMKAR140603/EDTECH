@@ -1,7 +1,4 @@
 # Vit-hackathon-web-IT
 repo for vit hackathon (frontend)
 
-Repo Accessible (Dheeraj)
-Rushikesh 
-
-cmCLN.llclnaCLN
+check snapshot folder for the output
